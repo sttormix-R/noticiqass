@@ -225,6 +225,8 @@
                    }
    
                    .primeira-secao {
+
+                    /* ESQUECI DE FAZER O COMMIT DOS GRIDS (DA RESPONSIVIDADE DESKTOP) */
                        grid-column: 1 / 3;
    
                        display: grid;
